@@ -1,5 +1,5 @@
 # Computer-Operating-Systems-Project-1
-Files found in master branch
+Source code and assignement files found in master branch.
 
 
 # Shell Design Report
